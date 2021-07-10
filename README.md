@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @josemonzon aka Chaky
-- 👀 I’m interested in Java, Angular and Typescript.
-- 🌱 I’m currently learning Node.
+### Hi there 👋, my name is Jose aka Chaky
+#### I am Java Developer
 
-<!---
-josemonzon/josemonzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: JAVA / ANGULAR / JS
+
+- 🔭 I’m currently working on this page. 
