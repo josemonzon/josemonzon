@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Monzon</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Adoptar](https://github.com/josemonzon/adoptar)
+- 🔭 I’m currently working on [limpo.app](https://limpo.app)
 
 - 🌱 I’m currently learning **Java, Angular and Node**
 
